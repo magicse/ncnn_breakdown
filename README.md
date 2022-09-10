@@ -1,34 +1,32 @@
 # NCNN BREAKDOWN
 a breakdown of NCNN
 
-## 一
+## one
 
-这个tutorial是笔者在自己学习ncnn的过程的一个记录．等于把自己的理解写了出来，如果有差错，还请大家指正．
+This tutorial is a record of the author's own learning process of ncnn. It is equivalent to writing out my own understanding. If there are any mistakes, please correct me.
 
-这个tutorial还没有写完，后面会随着学习的深入，会不定期的更新．
+This tutorial has not been written yet, and will be updated from time to time as the learning progresses.
 
-## 二
+## two
 
-这个tutorial的每一节，会分为4个section来讲述，分别是：
+Each section of this tutorial will be divided into 4 sections to describe, namely:
 
-> - **开始**　
-> - **作用**
-> - **实现**
-> - **代码示例**
+> - **start**　
+> - **effect**
+> - **accomplish**
+> - **code example**
 
-**开始**：每一节的开始，说一下当前学习计划．
+**Start**：At the beginning of each section, talk about the current study plan.
 
-**作用**：说一下本节要讲的内容的作用．
+**Role**：Talk about the role of the content to be discussed in this section.
 
-**实现**：说一下这一节的内容ncnn是如何实现的．
+**Implementation**：Tell me how ncnn is implemented in this section.
 
-**代码示例**：把这一节的内容中ncnn相关的代码拿出来，写了个例子．
+**Code example**：Take out the ncnn-related code in this section and write an example.
 
-## 三
+## three
 
-每一节，为了方便展示，我都会用一些图表来展示，如：
-
-
+For each section, for the convenience of presentation, I will use some charts to display, such as:
 
 ![lession-5](https://github.com/Zhengtq/ncnn_breakdown/blob/main/image/lession-5.png)
 
@@ -42,10 +40,8 @@ a breakdown of NCNN
 | (x)  | (x)   | (channel3)elemsize | elemsize | elemsize | elemsize | pad_y | pad_y... | (x)      |
 | (x)  | (x)   | (channel4)elemsize | elemsize | elemsize | elemsize | pad_y | pad_y... | pad_z... |
 
-## 四
-
-在每一节的最后，我都会附上对应的示例代码．在使用每一节的示例代码时候，需要自己clone下来，然后自己编译．一个常用的过程如下：
-
+## Four
+At the end of each section, I will attach the corresponding sample code. When using the sample code in each section, you need to clone it yourself, and then compile it yourself. A common procedure is as follows:
 ```bash
 git clone git@github.com:Zhengtq/ncnn_breakdown.git
 cd ncnn_breakdown && cd lesson && cd lesson_1
@@ -55,7 +51,8 @@ make -j8
 ./examples/lession_1
 ```
 
-## 五
+## five
 
 Have Fun !
+
 
