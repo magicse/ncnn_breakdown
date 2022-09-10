@@ -1,13 +1,13 @@
 # NCNN BREAKDOWN
-a breakdown of NCNN
+A breakdown of NCNN
 
-## one
+## One
 
 This tutorial is a record of the author's own learning process of ncnn. It is equivalent to writing out my own understanding. If there are any mistakes, please correct me.
 
 This tutorial has not been written yet, and will be updated from time to time as the learning progresses.
 
-## two
+## Two
 
 Each section of this tutorial will be divided into 4 sections to describe, namely:
 
@@ -24,7 +24,7 @@ Each section of this tutorial will be divided into 4 sections to describe, namel
 
 **Code example**：Take out the ncnn-related code in this section and write an example.
 
-## three
+## Three
 
 For each section, for the convenience of presentation, I will use some charts to display, such as:
 
@@ -51,7 +51,7 @@ make -j8
 ./examples/lession_1
 ```
 
-## five
+## Five
 
 Have Fun !
 
